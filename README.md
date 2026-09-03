@@ -60,6 +60,7 @@
 
 <table>
 <tr>
+
 <td width="50%">
 
 <h3 align="center">🏥 Online Healthcare Management System</h3>
@@ -91,9 +92,11 @@ An AI-powered commute assistant designed to provide smart route recommendations 
 </p>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 <h3 align="center">🧩 LeetCode Solutions</h3>
@@ -125,6 +128,7 @@ Explore my GitHub repositories to see more projects, coding practice and experim
 </p>
 
 </td>
+
 </tr>
 </table>
 
@@ -134,7 +138,24 @@ Explore my GitHub repositories to see more projects, coding practice and experim
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jassi-tiwari4123&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" height="180"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jassi-tiwari4123&layout=compact&langs_count=8&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=jassi-tiwari4123&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jassi-tiwari4123&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
@@ -150,12 +171,19 @@ Explore my GitHub repositories to see more projects, coding practice and experim
 ## 💻 Coding Profiles
 
 <p align="center">
+
   <a href="https://leetcode.com/u/jassi_tiwari4123/">
     <img src="https://img.shields.io/badge/LeetCode-jassi__tiwari4123-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
+
   <a href="https://www.hackerrank.com/jassitiwari4123">
     <img src="https://img.shields.io/badge/HackerRank-jassitiwari4123-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
+
+  <a href="https://codolio.com/profile/jassiTiwari">
+    <img src="https://img.shields.io/badge/Codolio-Profile-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+
 </p>
 
 ---
@@ -163,15 +191,19 @@ Explore my GitHub repositories to see more projects, coding practice and experim
 ## 📫 Connect With Me
 
 <p align="center">
+
   <a href="https://linkedin.com/in/jassi-tiwari">
     <img src="https://img.shields.io/badge/LinkedIn-Jassi%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:jassitiwari550@gmail.com">
     <img src="https://img.shields.io/badge/Email-jassitiwari550%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://github.com/jassi-tiwari4123">
     <img src="https://img.shields.io/badge/GitHub-jassi--tiwari4123-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
 </p>
 
 ---
