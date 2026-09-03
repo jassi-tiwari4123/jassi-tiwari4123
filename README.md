@@ -154,9 +154,9 @@ Explore my GitHub repositories to see more projects, coding practice and experim
 
 ## 📈 GitHub Activity
 
-<p align="center">
+[<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jassi-tiwari4123&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
+</p>](https://codolio.com/profile/jassiTiwari)
 
 ---
 
