@@ -147,14 +147,6 @@ Explore my GitHub repositories to see more projects, coding practice and experim
 
 ---
 
-## 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jassi-tiwari4123&theme=flat&no-frame=true&no-bg=true&margin-w=5&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## 💻 Coding Profiles
 
 <p align="center">
@@ -190,14 +182,4 @@ Explore my GitHub repositories to see more projects, coding practice and experim
   <a href="https://drive.google.com/file/d/1NSAoHcyIQcLhOdSdNM5QegeRXcmf1S0p/view?usp=drivesdk">
     <img src="https://img.shields.io/badge/View%20My%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  ⭐ If you find my projects interesting, consider giving them a star!
-</p>
-
-<p align="center">
-  <i>“Code. Learn. Build. Repeat.”</i>
 </p>
