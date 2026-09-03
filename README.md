@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **jassitiwari550@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NSAoHcyIQcLhOdSdNM5QegeRXcmf1S0p/view?usp=drivesdk](https://drive.google.com/file/d/1NSAoHcyIQcLhOdSdNM5QegeRXcmf1S0p/view?usp=drivesdk)
-
 - ⚡ Fun fact **I enjoy turning coding problems into working solutions and learning something new every day.**
 
 <h3 align="left">Connect with me:</h3>
