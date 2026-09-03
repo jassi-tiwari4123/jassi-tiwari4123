@@ -69,7 +69,7 @@ A web-based healthcare management system with role-based access, appointment sch
 </p>
 
 <p align="center">
-<a href="https://github.com/jassi-tiwari4123">
+<a href="[https://github.com/jassi-tiwari4123](https://github.com/jassi-tiwari4123/MediMax)">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
@@ -195,7 +195,7 @@ Explore my GitHub repositories to see more projects, coding practice and experim
 ## 📄 Resume
 
 <p align="center">
-  <a href="YOUR_GOOGLE_DRIVE_RESUME_LINK">
+  <a href="[YOUR_GOOGLE_DRIVE_RESUME_LINK](https://drive.google.com/file/d/1NSAoHcyIQcLhOdSdNM5QegeRXcmf1S0p/view?usp=drivesdk)">
     <img src="https://img.shields.io/badge/View%20My%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>
