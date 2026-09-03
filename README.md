@@ -134,28 +134,10 @@ Explore my GitHub repositories to see more projects, coding practice and experim
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jassi-tiwari4123&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" height="180"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jassi-tiwari4123&layout=compact&langs_count=8&hide_border=true" height="180"/>
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=jassi-tiwari4123&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jassi-tiwari4123&theme=github&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 
